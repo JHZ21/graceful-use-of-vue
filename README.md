@@ -1,29 +1,11 @@
 # graceful-use-of-vue
 
-## Project setup
-```
-npm install
-```
+## 涉及技巧
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> 路由导入
+>
+> 自定义权限管理指令
+>
+> 全局组件导入
+>
+> render()组件 解决一值多判断的代码冗余
